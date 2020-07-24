@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ApiNet.Models;
 using Microsoft.EntityFrameworkCore;
-using ApiNet.Models;
 
 namespace ApiNet.Data
 {
